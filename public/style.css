@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=UoqMunThenKhung&display=swap');
+
+
+
+#wrap{
+	width: 798px;
+	margin: 40px auto;
+	padding: 40px 80px;
+	border: #000000 1px solid;
+	background-color: #ffffff;
+    border-width: 10px;
+}
+
+.A{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    background-color: #fbf9cc;
+}
+.B{
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.C{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.D{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+h1{
+    color: #003494;  
+    text-align: center;    
+    text-decoration: none;   
+    font-family: 'UoqMunThenKhung', cursive;
+}
+
+h2{
+    color: #000000;  
+    text-align: left;    
+    text-decoration: none;   
+    font-family: 'UoqMunThenKhung', cursive;
+    border: #000000 1px dotted;
+	border-left: #a8c200 10px solid;
+	padding: 5px 20px;
+	margin-bottom: 0;
+    font-size: 100%;  
+}
+
+
+
+p{
+    color: #3a9e00;  
+    text-align: left;    
+    text-decoration: none;
+    a { text-decoration: none;  }   
+    font-family: 'UoqMunThenKhung', cursive;
+    font-size: 75%;
+}
+
+
+a:link {color:#FF0000;} 
+a:visited {color:#00FF00;} 
+a:hover {color:#FF00FF;}
+a:active {color:#0000FF;}
+
+
+body{
+    background-position: center;
+    background-color: #fbf9cc;
+    background-attachment: fixed; 
+    background-size: 600px;
+}
+
+
+
+
+
+
+
